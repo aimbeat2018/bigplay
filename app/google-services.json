@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981271351305",
+    "project_id": "bigplay-bb95f",
+    "storage_bucket": "bigplay-bb95f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981271351305:android:0420a1a42b2a3620c068d8",
+        "android_client_info": {
+          "package_name": "ott.bigplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArKrxFqqvFOZt1W2qi0RNzIip3AuvC348"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
